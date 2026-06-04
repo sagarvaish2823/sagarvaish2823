@@ -1,17 +1,11 @@
-# SAGAR VAISH
+# Hi there 👋, I'm Sagar
 
-Freelance website designer and developer.
-Bases in भारत aka INDIA (🇮🇳).
-
----
-
-I work with
-
-1. Javascript
-2. Tyepscript
-3. ReactJS
-4. NextJS
-5. Python
-6. React Native
+I'm a developer from India who enjoys building stuff.
 
 ---
+
+## 📫 Connect With Me
+
+* Website: https://www.meditativefolks.com
+* GitHub: https://github.com/sagarvaish2823
+* Instagram: https://www.instagram.com/sagar_vaish_jv
